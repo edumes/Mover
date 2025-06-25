@@ -58,5 +58,3 @@ Mover is a TUI (Textual User Interface) application written in Python using [Tex
 * Python 3.8+
 
 ---
-
-Developed by [Eduardo Santarosa].
