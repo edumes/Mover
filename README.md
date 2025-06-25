@@ -2,6 +2,8 @@
 
 Mover is a TUI (Textual User Interface) application written in Python using [Textual](https://www.textualize.io/) that lets you move the contents of one directory to another in a visual, fast, and safe way—especially when dealing with folders containing thousands of files, a scenario where Windows Explorer often falters or crashes. It displays a real-time progress and status messages to keep you informed throughout the entire operation.
 
+![{A93EFFE0-D869-4D9A-B4FB-6FC91E5BFA88}](https://github.com/user-attachments/assets/9ed65c86-042d-4136-be18-5e7cceaa1522)
+
 ## Features
 
 * Visual selection of source and destination directories
