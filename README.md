@@ -18,7 +18,7 @@ Mover is a TUI (Textual User Interface) application written in Python using [Tex
 1. **Clone the repository:**
 
    ```bash
-   git clone [<repository-url>](https://github.com/edumes/Mover.git)
+   git clone https://github.com/edumes/Mover.git
    cd Mover
    ```
 2. **Create a virtual environment** (optional but recommended):
